@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Darun Kishore</h1>
-<h3 align="center">🚀 Final Year CSE Student | 💻 Full Stack Developer in Progress | 🔥 Always Learning Something New</h3>
+<h3 align="center">🚀 Final Year IT Student | 💻 Full Stack Developer in Progress | 🔥 Always Learning Something New</h3>
 
 ---
 
